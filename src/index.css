@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+}
+
+body {
+  background: #2c2c2c;
+  color: #fff;
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+}

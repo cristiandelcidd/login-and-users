@@ -11,6 +11,7 @@
   position: fixed;
   top: 10px;
   left: 10px;
+  color: #000;
 }
 
 .login-error {
